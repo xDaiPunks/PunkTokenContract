@@ -1,7 +1,7 @@
 # Punk Token
-The Punk token ($PNK) is the token of the xDaiPunks community. This token is a regular ERC20 token that lives on the Mainnet of Ethereum and that is bridged to xDai.
+The Punk token ($PNK) is the token of the xDaiPunks community. $PNK is an ERC20 token that lives on the Mainnet of Ethereum, bridged to xDai.
 
-The token is will be used as governance token and utility token for the upcoming NFT marketplace called NiftyFair
+The token is will be used as the governance and utility token for the upcoming NFT marketplace "NiftyFair".
 
 The total supply of the token is 200.000.000
  - 50.000.000 will be transferred to the IBCO contract
@@ -25,7 +25,7 @@ npm i
 Run truffle commands for example
 
 ```sh
-ganche-cli
+ganache-cli
 
 truffle build
 
