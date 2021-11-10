@@ -1,5 +1,5 @@
 # Punk Token
-The Punk token ($PNK) is the token of the xDaiPunks community. $PNK is an ERC20 token that lives on the Mainnet of Ethereum, bridged to xDai.
+The Punk token ($PUNK) is the token of the xDaiPunks community. $PUNK is an ERC20 token that lives on the Mainnet of Ethereum, bridged to xDai.
 
 The token is will be used as the governance and utility token for the upcoming NFT marketplace "NiftyFair".
 

@@ -37,7 +37,7 @@ pragma solidity 0.8.0;
 import '@openzeppelin/contracts/token/ERC20/ERC20.sol';
 
 contract Punk is ERC20 {
-  constructor() ERC20('Punk', 'PNK') {
+  constructor() ERC20('Punk', 'PUNK') {
     _mint(msg.sender, 200_000_000e18);
   }
 }
